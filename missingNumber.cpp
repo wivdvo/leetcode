@@ -22,4 +22,5 @@ int main()
 {
 	std::vector<int> nums = {3, 0, 1};
 	std::cout << missingNumber(nums) << std::endl;
+	return (0);
 }
